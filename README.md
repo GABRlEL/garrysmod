@@ -11,6 +11,7 @@ Ich habe das Menü entwickelt, um Sandbox mit Freunden angenehmer zu machen.
 **Allgemein:**
 
 Das Menü hat ein simples GUI, welches bei manchen Features sowohl Links- als auch Rechts-Klick auf die Buttons supported.
+
 ![GUI](https://i.imgur.com/u04zSjw.png)
 
 (Sorry, nur vom Main Menu - Game grad nicht installiert, aber Admin Menu sieht nicht groß anders aus)
